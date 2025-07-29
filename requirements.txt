@@ -5,5 +5,3 @@ scikit-learn
 matplotlib
 tensorboard
 streamlit
-joblib
-pickle5
